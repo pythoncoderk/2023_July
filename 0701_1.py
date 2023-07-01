@@ -1,1 +1,5 @@
-print(7)
+x = input()
+y = input()
+z = input()
+
+print(f"{x}|{y}|{z}")
