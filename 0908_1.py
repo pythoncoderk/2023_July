@@ -1,11 +1,14 @@
-n = int(input())
-l = []
-for i in range(n):
-    l.append(input())
-print("TEST ", end="")
+num = 1
+name = "Mike"
+is_ok = True
 
-for i in l:
-    if i == l[-1]:
-        print(i, end=".")
-    else:
-        print(i, end=",")
+print(num, type(num))
+print(num, type(name))
+print(is_ok, type(is_ok))
+
+num = name
+print(num, type(num))
+
+test = "1"
+new_num = int(test)
+print(new_num, type(new_num))
