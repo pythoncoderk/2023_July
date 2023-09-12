@@ -1,21 +1,10 @@
-s = ["a", "b", "c"]
-print(s)
-print(s[0])
-s[0] = "XXX"
-print(s)
+def linsearch(a, p):
+    for i in range(0, len(a), 1):
+        if a[i] == p:
+            print("見つかりました！添字:", i)
+            break
 
-s[1:2] = ["B", "C"]
-print(s)
+a = [61,15,82,77,21,32,53]
+p = 82
 
-s[1:2] = []
-print(s)
-
-s[:] = []
-print(s)
-
-a = [1,2,3]
-b =[4,5,6]
-print(a + b)
-
-
-print(a.extend(b))
+print(linsearch(a, p))
