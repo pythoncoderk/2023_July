@@ -1,0 +1,1 @@
+print(f"Best in {input()}")
