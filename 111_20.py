@@ -1,4 +1,4 @@
 l = list(map(int, input().split()))
 x = sum(l)
-x = str(x[-1])
-print(x)
+x = str(x)
+print(x[-1])
