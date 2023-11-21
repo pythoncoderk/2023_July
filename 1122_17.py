@@ -1,3 +1,3 @@
 n = input()
 m = input()
-print(m.count(n))
+print(n + m)
