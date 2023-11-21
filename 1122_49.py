@@ -1,2 +1,2 @@
 n = int(input())
-print(n - 10)
+print(60 - n)
