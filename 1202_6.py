@@ -6,4 +6,4 @@ result = d1 - d2
 print(result)
 print(result.days)
 
-test1 = datetime.time(minute=10, second=10)
+test = d1 + timedelta()
