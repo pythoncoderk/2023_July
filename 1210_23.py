@@ -13,7 +13,10 @@ if y_check == 1 and m == 2:
     last_day = 29
 elif m == 2:
     last_day = 28
-elif m == 4 or m == 6 or m == 9 or m == 11:
+elif (m == 4 or
+      m == 6 or
+      m == 9 or
+      m == 11):
     last_day = 30
 else:
     last_day = 31
@@ -32,7 +35,10 @@ elif m == 2 and y_check == 1:
         d = 1
     else:
         d += 1
-elif m == 4 or m == 6 or m == 9 or m == 11:
+elif (m == 4 or
+      m == 6 or
+      m == 9 or
+      m == 11):
     if last_day == d:
         m += 1
         d = 1
