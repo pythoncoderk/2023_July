@@ -1,7 +1,7 @@
 n = int(input())
 l = list(map(int, input().split()))
 
-l2 = [i for i in l if i % 2 == 1]
+l2 = [i for i in l if i % 2 == 1 or i == 0]
 # print(l)
 # print(l2)
 counts = 0
