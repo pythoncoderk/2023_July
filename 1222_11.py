@@ -1,15 +1,3 @@
-import re
-
-# 標準入力で "255.255.255.255"
-s = input()
-x = re.fullmatch(r"([2][0-5][0-5]|[1][\d][\d]|[\d][\d]|[\d])"
-                 r"\.([2][0-5][0-5]|[1][\d][\d]|[\d][\d]|[\d])"
-                 r"\.([2][0-5][0-5]|[1][\d][\d]|[\d][\d]|[\d])"
-                 r"\.([2][0-5][0-5]|[1][\d][\d]|[\d][\d]|[\d])",
-                 s)
-# 0.0.0.0 ～ 255.255.255.255 の範囲内であれば True
-# 範囲外であれば　Falseを返す
-if x is None:
-    print(False)
-else:
-    print(True)
+a, b = map(int, input().split())
+l = [i for i in range(a, a+(b*10), b)]
+print(*l)
