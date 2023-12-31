@@ -1,7 +1,0 @@
-n = int(input())
-l = list(map(int, input().split()))
-m = int(input())
-# print(n)
-# print(l)
-# print(m)
-print(l.count(m))

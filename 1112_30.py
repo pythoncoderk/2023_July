@@ -1,5 +1,0 @@
-n = int(input())
-l = list(map(int, input().split()))
-m = int(input())
-l.sort()
-print(l[-m])

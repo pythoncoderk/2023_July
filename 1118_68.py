@@ -1,5 +1,0 @@
-n = int(input())
-s = input()
-x = s.count("S")
-y = s.count("R")
-print(f"{x} {y}")
