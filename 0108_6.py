@@ -1,9 +1,9 @@
 n, k = map(int, input().split())
 l = list(map(int, input().split()))
-l2 = []
+l3 = []
 for i in range(n - k + 1):
-    l3 = []
+    l2 = []
     for j in range(k):
-        l3.append(l[i+j])
-    l2.append(sum(l3))
-print(max(l2))
+        l2.append(l[i+j])
+    l3.append(sum(l2))
+print(max(l3))
