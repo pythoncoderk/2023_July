@@ -1,7 +1,7 @@
 import copy
 
-n, a, b = map(int, input().split())
-l = [list(input()) for i in range(a)]
+n, A, B = map(int, input().split())
+l = [list(input()) for i in range(A)]
 l2 = copy.deepcopy(l)
 # print(n, a, b)
 # print(l)
