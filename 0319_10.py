@@ -1,2 +1,3 @@
 a, b = map(int, input().split())
-print(a or b)
+
+print(a ^ b)
