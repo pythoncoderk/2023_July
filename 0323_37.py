@@ -1,2 +1,2 @@
 n = int(input())
-print(7 - n)
+print(100 - n)
