@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0be83cae-3655-4f1e-8f0b-aabdb62ddd1b" name="変更" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/0414_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0415_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0415_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0416_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0417_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0416_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/0416_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,156 +49,136 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.0330_16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0331_17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0331_18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0331_19.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0331_20.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.0331_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0331_4.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.0401_2.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.0401_3.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.0401_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0401_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0401_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0401_7.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.0401_8.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.0402_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0402_10.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.0402_11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0402_12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0402_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0402_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0402_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0402_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0402_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0402_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0402_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0402_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0403_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0403_10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0403_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0403_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0403_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0403_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0403_6.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.0403_7.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.0403_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0403_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0404_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0404_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0404_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0404_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0404_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0405_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0405_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0405_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0405_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0405_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0405_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0406_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0406_10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0406_11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0406_12.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.0406_13.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.0406_14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0406_15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0406_17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0406_18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0406_19.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0406_2.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.0406_20.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0406_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0406_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0406_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0406_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0406_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0406_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0406_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0407_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0407_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0408_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0408_10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0408_11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0408_12.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.0408_13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0408_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0408_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0408_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0408_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0408_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0408_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0408_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0409_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0409_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0409_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0409_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0409_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0409_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0409_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0409_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0409_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0410_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0410_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0410_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0410_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0410_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0410_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0410_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0410_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0410_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0411_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0411_2.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.0412_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0412_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0412_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0412_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0412_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0413_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0413_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0413_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0413_4.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.0413_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0413_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0413_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0413_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0414_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0414_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0415_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0415_2.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.0416_1.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.0330_16.executor": "Run",
+    "Python.0331_17.executor": "Run",
+    "Python.0331_18.executor": "Run",
+    "Python.0331_19.executor": "Run",
+    "Python.0331_20.executor": "Debug",
+    "Python.0331_3.executor": "Run",
+    "Python.0331_4.executor": "Debug",
+    "Python.0401_2.executor": "Debug",
+    "Python.0401_3.executor": "Debug",
+    "Python.0401_4.executor": "Run",
+    "Python.0401_5.executor": "Run",
+    "Python.0401_6.executor": "Run",
+    "Python.0401_7.executor": "Debug",
+    "Python.0401_8.executor": "Debug",
+    "Python.0402_1.executor": "Run",
+    "Python.0402_10.executor": "Debug",
+    "Python.0402_11.executor": "Run",
+    "Python.0402_12.executor": "Run",
+    "Python.0402_2.executor": "Run",
+    "Python.0402_3.executor": "Run",
+    "Python.0402_4.executor": "Run",
+    "Python.0402_5.executor": "Run",
+    "Python.0402_6.executor": "Run",
+    "Python.0402_7.executor": "Run",
+    "Python.0402_8.executor": "Run",
+    "Python.0402_9.executor": "Run",
+    "Python.0403_1.executor": "Run",
+    "Python.0403_10.executor": "Run",
+    "Python.0403_2.executor": "Run",
+    "Python.0403_3.executor": "Run",
+    "Python.0403_4.executor": "Run",
+    "Python.0403_5.executor": "Run",
+    "Python.0403_6.executor": "Debug",
+    "Python.0403_7.executor": "Debug",
+    "Python.0403_8.executor": "Run",
+    "Python.0403_9.executor": "Run",
+    "Python.0404_1.executor": "Run",
+    "Python.0404_2.executor": "Run",
+    "Python.0404_3.executor": "Run",
+    "Python.0404_4.executor": "Run",
+    "Python.0404_5.executor": "Run",
+    "Python.0405_1.executor": "Run",
+    "Python.0405_2.executor": "Run",
+    "Python.0405_3.executor": "Run",
+    "Python.0405_4.executor": "Run",
+    "Python.0405_5.executor": "Run",
+    "Python.0405_6.executor": "Run",
+    "Python.0406_1.executor": "Run",
+    "Python.0406_10.executor": "Run",
+    "Python.0406_11.executor": "Run",
+    "Python.0406_12.executor": "Debug",
+    "Python.0406_13.executor": "Debug",
+    "Python.0406_14.executor": "Run",
+    "Python.0406_15.executor": "Run",
+    "Python.0406_17.executor": "Run",
+    "Python.0406_18.executor": "Run",
+    "Python.0406_19.executor": "Run",
+    "Python.0406_2.executor": "Debug",
+    "Python.0406_20.executor": "Run",
+    "Python.0406_3.executor": "Run",
+    "Python.0406_4.executor": "Run",
+    "Python.0406_5.executor": "Run",
+    "Python.0406_6.executor": "Run",
+    "Python.0406_7.executor": "Run",
+    "Python.0406_8.executor": "Run",
+    "Python.0406_9.executor": "Run",
+    "Python.0407_1.executor": "Run",
+    "Python.0407_2.executor": "Run",
+    "Python.0408_1.executor": "Run",
+    "Python.0408_10.executor": "Run",
+    "Python.0408_11.executor": "Run",
+    "Python.0408_12.executor": "Debug",
+    "Python.0408_13.executor": "Run",
+    "Python.0408_3.executor": "Run",
+    "Python.0408_4.executor": "Run",
+    "Python.0408_5.executor": "Run",
+    "Python.0408_6.executor": "Run",
+    "Python.0408_7.executor": "Run",
+    "Python.0408_8.executor": "Run",
+    "Python.0408_9.executor": "Run",
+    "Python.0409_1.executor": "Run",
+    "Python.0409_2.executor": "Run",
+    "Python.0409_3.executor": "Run",
+    "Python.0409_4.executor": "Run",
+    "Python.0409_5.executor": "Run",
+    "Python.0409_6.executor": "Run",
+    "Python.0409_7.executor": "Run",
+    "Python.0409_8.executor": "Run",
+    "Python.0409_9.executor": "Run",
+    "Python.0410_1.executor": "Run",
+    "Python.0410_2.executor": "Run",
+    "Python.0410_3.executor": "Run",
+    "Python.0410_4.executor": "Run",
+    "Python.0410_5.executor": "Run",
+    "Python.0410_6.executor": "Run",
+    "Python.0410_7.executor": "Run",
+    "Python.0410_8.executor": "Run",
+    "Python.0410_9.executor": "Run",
+    "Python.0411_1.executor": "Run",
+    "Python.0411_2.executor": "Debug",
+    "Python.0412_3.executor": "Run",
+    "Python.0412_4.executor": "Run",
+    "Python.0412_5.executor": "Run",
+    "Python.0412_6.executor": "Run",
+    "Python.0412_7.executor": "Run",
+    "Python.0413_1.executor": "Run",
+    "Python.0413_2.executor": "Run",
+    "Python.0413_3.executor": "Run",
+    "Python.0413_4.executor": "Debug",
+    "Python.0413_5.executor": "Run",
+    "Python.0413_6.executor": "Run",
+    "Python.0413_7.executor": "Run",
+    "Python.0413_8.executor": "Run",
+    "Python.0414_1.executor": "Run",
+    "Python.0414_2.executor": "Run",
+    "Python.0415_1.executor": "Run",
+    "Python.0415_2.executor": "Debug",
+    "Python.0416_1.executor": "Debug",
+    "Python.0416_2.executor": "Run",
+    "Python.0417_1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
-}</component>
-  <component name="RunManager" selected="Python.0416_2">
-    <configuration name="0414_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="2023_July" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0414_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Python.0417_1">
     <configuration name="0415_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
@@ -289,13 +267,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="0417_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2023_July" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0417_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.0417_1" />
         <item itemvalue="Python.0416_2" />
         <item itemvalue="Python.0416_1" />
         <item itemvalue="Python.0415_2" />
         <item itemvalue="Python.0415_1" />
-        <item itemvalue="Python.0414_2" />
       </list>
     </recent_temporary>
   </component>
@@ -643,7 +643,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713023393393</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1713277106186</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1713277106186</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -733,6 +741,11 @@
           <url>file://$PROJECT_DIR$/0416_1.py</url>
           <line>17</line>
           <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0417_1.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="136" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
