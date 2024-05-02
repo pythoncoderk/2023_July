@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0be83cae-3655-4f1e-8f0b-aabdb62ddd1b" name="変更" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/0502_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0502_10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -281,6 +281,7 @@
     "Python.0501_8.executor": "Run",
     "Python.0501_9.executor": "Run",
     "Python.0502_1.executor": "Debug",
+    "Python.0502_10.executor": "Run",
     "Python.0502_2.executor": "Run",
     "Python.0502_3.executor": "Run",
     "Python.0502_4.executor": "Run",
@@ -288,15 +289,15 @@
     "Python.0502_6.executor": "Run",
     "Python.0502_7.executor": "Run",
     "Python.0502_8.executor": "Run",
-    "Python.0502_9.executor": "Run",
+    "Python.0502_9.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.0502_9">
-    <configuration name="0502_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0502_10">
+    <configuration name="0502_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -309,7 +310,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0502_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0502_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -408,11 +409,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.0502_10" />
         <item itemvalue="Python.0502_9" />
         <item itemvalue="Python.0502_8" />
         <item itemvalue="Python.0502_7" />
         <item itemvalue="Python.0502_6" />
-        <item itemvalue="Python.0502_5" />
       </list>
     </recent_temporary>
   </component>
@@ -431,14 +432,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711842314931</updated>
-    </task>
-    <task id="LOCAL-00076" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1714079003137</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1714079003137</updated>
     </task>
     <task id="LOCAL-00077" summary="Merge remote-tracking branch 'origin/master'">
       <option name="closed" value="true" />
@@ -824,7 +817,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714609005141</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1714609424792</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1714609424792</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
