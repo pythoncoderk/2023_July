@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0be83cae-3655-4f1e-8f0b-aabdb62ddd1b" name="変更" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/0503_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0503_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/0503_6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -460,14 +461,6 @@
       <option name="presentableId" value="Default" />
       <updated>1711842314931</updated>
     </task>
-    <task id="LOCAL-00102" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1714452046535</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1714452046535</updated>
-    </task>
     <task id="LOCAL-00103" summary="Merge remote-tracking branch 'origin/master'">
       <option name="closed" value="true" />
       <created>1714453448891</created>
@@ -852,7 +845,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714693251474</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1714694631262</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1714694631262</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1232,6 +1233,11 @@
           <url>file://$PROJECT_DIR$/0503_5.py</url>
           <line>31</line>
           <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0503_6.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="290" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
