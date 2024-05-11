@@ -391,8 +391,8 @@
     "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.0511_9">
-    <configuration name="0511_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0511_10">
+    <configuration name="0511_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -405,7 +405,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0511_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0511_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -504,11 +504,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.0511_10" />
         <item itemvalue="Python.0511_9" />
         <item itemvalue="Python.0511_8" />
         <item itemvalue="Python.0511_7" />
         <item itemvalue="Python.0511_6" />
-        <item itemvalue="Python.0511_5" />
       </list>
     </recent_temporary>
   </component>
