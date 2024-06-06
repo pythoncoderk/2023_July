@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0be83cae-3655-4f1e-8f0b-aabdb62ddd1b" name="変更" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/0606_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0606_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0606_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0607_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0606_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/0606_10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -552,13 +549,14 @@
     "Python.0606_7.executor": "Run",
     "Python.0606_8.executor": "Run",
     "Python.0606_9.executor": "Run",
+    "Python.0607_1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.0606_13">
+  <component name="RunManager" selected="Python.0607_1">
     <configuration name="0606_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
@@ -647,7 +645,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0606_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0607_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -660,7 +658,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0606_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0607_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -671,11 +669,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.0607_1" />
         <item itemvalue="Python.0606_13" />
         <item itemvalue="Python.0606_12" />
         <item itemvalue="Python.0606_11" />
         <item itemvalue="Python.0606_10" />
-        <item itemvalue="Python.0606_9" />
       </list>
     </recent_temporary>
   </component>
@@ -694,14 +692,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711842314931</updated>
-    </task>
-    <task id="LOCAL-00241" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1716676753204</created>
-      <option name="number" value="00241" />
-      <option name="presentableId" value="LOCAL-00241" />
-      <option name="project" value="LOCAL" />
-      <updated>1716676753204</updated>
     </task>
     <task id="LOCAL-00242" summary="Merge remote-tracking branch 'origin/master'">
       <option name="closed" value="true" />
@@ -1087,7 +1077,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717689073920</updated>
     </task>
-    <option name="localTasksCounter" value="290" />
+    <task id="LOCAL-00290" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1717690931127</created>
+      <option name="number" value="00290" />
+      <option name="presentableId" value="LOCAL-00290" />
+      <option name="project" value="LOCAL" />
+      <updated>1717690931127</updated>
+    </task>
+    <option name="localTasksCounter" value="291" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
