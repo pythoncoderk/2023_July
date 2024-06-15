@@ -5,9 +5,190 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0be83cae-3655-4f1e-8f0b-aabdb62ddd1b" name="変更" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/0615_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0615_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0615_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0615_21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0615_22.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0531_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0601_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0601_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0601_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0601_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0601_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0601_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0601_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0601_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0601_9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0602_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0602_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0602_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0602_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0602_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0603_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0603_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0603_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0603_12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0603_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0603_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0603_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0603_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0603_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0603_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0603_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0603_9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0604_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0604_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0605_9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0606_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0606_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0606_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0606_12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0606_13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0606_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0606_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0606_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0606_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0606_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0606_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0606_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0606_9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0607_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0607_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0607_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0607_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0607_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0607_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0607_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0607_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_27.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_28.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608_9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0609_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0609_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0609_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0609_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0609_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0610_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0610_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0610_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0610_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0610_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0610_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0610_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0610_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0610_9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611_9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0612_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0612_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0612_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0612_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0612_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0613_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0613_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0613_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0613_12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0613_13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0613_14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0613_15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0613_16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0613_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0613_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0613_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0613_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0613_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0613_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0613_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0613_9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0614_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0614_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0614_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0614_12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0614_13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0614_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0614_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0614_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0614_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0614_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0614_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0614_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0614_9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0615_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0615_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/0615_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0615_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/0615_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0615_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0615_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid12764.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid19764.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid22488.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid24316.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid2836.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid9308.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -659,6 +840,9 @@
     "Python.0614_9.executor": "Run",
     "Python.0615_1.executor": "Run",
     "Python.0615_2.executor": "Run",
+    "Python.0615_20.executor": "Run",
+    "Python.0615_21.executor": "Run",
+    "Python.0615_22.executor": "Run",
     "Python.0615_3.executor": "Run",
     "Python.0615_4.executor": "Run",
     "Python.0615_5.executor": "Run",
@@ -668,8 +852,8 @@
     "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.0615_5">
-    <configuration name="0615_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0615_25">
+    <configuration name="0615_21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -682,7 +866,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0615_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0615_21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -691,7 +875,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0615_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0615_22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -704,7 +888,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0615_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0615_22.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -713,7 +897,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0615_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0615_23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -726,7 +910,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0615_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0615_23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -735,7 +919,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0615_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0615_24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -748,7 +932,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0615_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0615_24.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -757,7 +941,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0615_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0615_25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -770,7 +954,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0615_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0615_25.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -781,11 +965,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0615_5" />
-        <item itemvalue="Python.0615_4" />
-        <item itemvalue="Python.0615_3" />
-        <item itemvalue="Python.0615_2" />
-        <item itemvalue="Python.0615_1" />
+        <item itemvalue="Python.0615_25" />
+        <item itemvalue="Python.0615_24" />
+        <item itemvalue="Python.0615_23" />
+        <item itemvalue="Python.0615_22" />
+        <item itemvalue="Python.0615_21" />
       </list>
     </recent_temporary>
   </component>
@@ -804,14 +988,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711842314931</updated>
-    </task>
-    <task id="LOCAL-00288" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1717620833914</created>
-      <option name="number" value="00288" />
-      <option name="presentableId" value="LOCAL-00288" />
-      <option name="project" value="LOCAL" />
-      <updated>1717620833914</updated>
     </task>
     <task id="LOCAL-00289" summary="Merge remote-tracking branch 'origin/master'">
       <option name="closed" value="true" />
@@ -1197,7 +1373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718415407054</updated>
     </task>
-    <option name="localTasksCounter" value="337" />
+    <task id="LOCAL-00337" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1718421197761</created>
+      <option name="number" value="00337" />
+      <option name="presentableId" value="LOCAL-00337" />
+      <option name="project" value="LOCAL" />
+      <updated>1718421197761</updated>
+    </task>
+    <option name="localTasksCounter" value="338" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1219,198 +1403,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0601_2.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="428" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0601_5.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="429" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0601_10.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="438" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0602_1.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="439" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0602_3.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="440" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0602_4.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="441" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0603_11.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="445" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0603_12.py</url>
-          <option name="timeStamp" value="447" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0604_1.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="449" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0606_1.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="450" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0606_3.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="451" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0606_8.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="452" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0606_12.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="453" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0608_2.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="454" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0608_15.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="455" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0608_26.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="457" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0608_27.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="458" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0608_28.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="459" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0609_1.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="465" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0609_3.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="466" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0610_6.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="468" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0611_2.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="470" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0611_12.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="471" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0611_13.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="472" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0612_1.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="473" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0612_2.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="474" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0612_3.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="475" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0612_5.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="476" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0613_7.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="477" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0613_8.py</url>
-          <line>43</line>
-          <option name="timeStamp" value="481" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0613_10.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="482" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0613_11.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="483" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0613_16.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="484" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0614_11.py</url>
-          <line>46</line>
-          <option name="timeStamp" value="488" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0614_12.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="489" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0614_13.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="490" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0615_1.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="491" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0615_3.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="493" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0615_4.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="494" />
+          <url>file://$PROJECT_DIR$/0615_22.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
