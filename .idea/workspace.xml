@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0be83cae-3655-4f1e-8f0b-aabdb62ddd1b" name="変更" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/0618_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0618_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0618_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0619_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0619_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0619_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0619_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0619_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0619_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0619_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -688,14 +696,23 @@
     "Python.0618_1.executor": "Debug",
     "Python.0618_2.executor": "Run",
     "Python.0618_3.executor": "Run",
+    "Python.0618_4.executor": "Run",
+    "Python.0618_5.executor": "Run",
+    "Python.0619_1.executor": "Run",
+    "Python.0619_2.executor": "Run",
+    "Python.0619_3.executor": "Run",
+    "Python.0619_4.executor": "Run",
+    "Python.0619_5.executor": "Run",
+    "Python.0619_6.executor": "Run",
+    "Python.0619_7.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.0618_3">
-    <configuration name="0617_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0619_7">
+    <configuration name="0619_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -708,7 +725,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0617_10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0619_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -717,7 +734,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0617_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0619_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -730,7 +747,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0617_11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0619_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -739,7 +756,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0618_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0619_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -752,7 +769,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0618_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0619_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -761,7 +778,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0618_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0619_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -774,7 +791,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0618_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0619_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -783,7 +800,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0618_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0619_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -796,7 +813,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0618_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0619_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -807,11 +824,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0618_3" />
-        <item itemvalue="Python.0618_2" />
-        <item itemvalue="Python.0618_1" />
-        <item itemvalue="Python.0617_11" />
-        <item itemvalue="Python.0617_10" />
+        <item itemvalue="Python.0619_7" />
+        <item itemvalue="Python.0619_6" />
+        <item itemvalue="Python.0619_5" />
+        <item itemvalue="Python.0619_4" />
+        <item itemvalue="Python.0619_3" />
       </list>
     </recent_temporary>
   </component>
@@ -830,14 +847,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711842314931</updated>
-    </task>
-    <task id="LOCAL-00296" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1717801609672</created>
-      <option name="number" value="00296" />
-      <option name="presentableId" value="LOCAL-00296" />
-      <option name="project" value="LOCAL" />
-      <updated>1717801609672</updated>
     </task>
     <task id="LOCAL-00297" summary="Merge remote-tracking branch 'origin/master'">
       <option name="closed" value="true" />
@@ -1223,7 +1232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718664037265</updated>
     </task>
-    <option name="localTasksCounter" value="345" />
+    <task id="LOCAL-00345" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1718665005567</created>
+      <option name="number" value="00345" />
+      <option name="presentableId" value="LOCAL-00345" />
+      <option name="project" value="LOCAL" />
+      <updated>1718665005567</updated>
+    </task>
+    <option name="localTasksCounter" value="346" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1253,6 +1270,11 @@
           <url>file://$PROJECT_DIR$/0618_2.py</url>
           <line>6</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0618_3.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
