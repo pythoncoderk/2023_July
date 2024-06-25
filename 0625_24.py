@@ -15,3 +15,5 @@ while True:
             n += y
 
     print(answer, abs(answer - x))
+
+print()
