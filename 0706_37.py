@@ -1,11 +1,9 @@
-n, a, b = map(int, input().split())
+n = int(input())
 l = [int(input()) for i in range(n)]
 
-# print(n, a, b)
+# print(n)
 # print(l)
 
-l.insert(a, b)
-
-
+l.pop(0)
 for i in l:
     print(i)
