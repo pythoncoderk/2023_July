@@ -5,14 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0be83cae-3655-4f1e-8f0b-aabdb62ddd1b" name="変更" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/0708_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0708_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0708_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0708_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0708_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0708_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0708_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0708_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0708_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0708_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0708_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0708_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0708_21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0708_22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0708_23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0708_24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0708_25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0709_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0709_27.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/0708_8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -966,7 +972,18 @@
     "Python.0708_11.executor": "Run",
     "Python.0708_12.executor": "Debug",
     "Python.0708_13.executor": "Run",
+    "Python.0708_15.executor": "Run",
+    "Python.0708_16.executor": "Run",
+    "Python.0708_17.executor": "Run",
+    "Python.0708_18.executor": "Run",
+    "Python.0708_19.executor": "Run",
     "Python.0708_2.executor": "Run",
+    "Python.0708_20.executor": "Run",
+    "Python.0708_21.executor": "Run",
+    "Python.0708_22.executor": "Run",
+    "Python.0708_23.executor": "Run",
+    "Python.0708_24.executor": "Run",
+    "Python.0708_25.executor": "Run",
     "Python.0708_3.executor": "Run",
     "Python.0708_4.executor": "Run",
     "Python.0708_5.executor": "Run",
@@ -974,6 +991,8 @@
     "Python.0708_7.executor": "Run",
     "Python.0708_8.executor": "Run",
     "Python.0708_9.executor": "Run",
+    "Python.0709_26.executor": "Run",
+    "Python.0709_27.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -989,8 +1008,8 @@
       <visibility group="最近のプロジェクト" flag="true" />
     </myKeys>
   </component>
-  <component name="RunManager" selected="Python.0708_13">
-    <configuration name="0708_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0709_27">
+    <configuration name="0708_23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1003,7 +1022,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0708_10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0708_23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1012,7 +1031,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0708_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0708_24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1025,7 +1044,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0708_11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0708_24.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1034,7 +1053,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0708_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0708_25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1047,7 +1066,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0708_12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0708_25.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1056,7 +1075,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0708_13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0709_26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1069,7 +1088,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0708_13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0709_26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1078,7 +1097,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0708_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0709_27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1091,7 +1110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0708_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0709_27.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1102,11 +1121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0708_13" />
-        <item itemvalue="Python.0708_12" />
-        <item itemvalue="Python.0708_11" />
-        <item itemvalue="Python.0708_10" />
-        <item itemvalue="Python.0708_9" />
+        <item itemvalue="Python.0709_27" />
+        <item itemvalue="Python.0709_26" />
+        <item itemvalue="Python.0708_25" />
+        <item itemvalue="Python.0708_24" />
+        <item itemvalue="Python.0708_23" />
       </list>
     </recent_temporary>
   </component>
@@ -1125,14 +1144,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711842314931</updated>
-    </task>
-    <task id="LOCAL-00347" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1718751195101</created>
-      <option name="number" value="00347" />
-      <option name="presentableId" value="LOCAL-00347" />
-      <option name="project" value="LOCAL" />
-      <updated>1718751195101</updated>
     </task>
     <task id="LOCAL-00348" summary="Merge remote-tracking branch 'origin/master'">
       <option name="closed" value="true" />
@@ -1518,7 +1529,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720391655708</updated>
     </task>
-    <option name="localTasksCounter" value="396" />
+    <task id="LOCAL-00396" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1720409142751</created>
+      <option name="number" value="00396" />
+      <option name="presentableId" value="LOCAL-00396" />
+      <option name="project" value="LOCAL" />
+      <updated>1720409142751</updated>
+    </task>
+    <option name="localTasksCounter" value="397" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1754,6 +1773,21 @@
           <url>file://$PROJECT_DIR$/0708_12.py</url>
           <line>3</line>
           <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0708_17.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0708_25.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0709_27.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="123" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
