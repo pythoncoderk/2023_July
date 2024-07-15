@@ -6,11 +6,15 @@ l = [input() for i in range(n)]
 
 l2 = []
 for i in range(n):
-    if l[i] in l2:
-        x = l2.index(l[i])
-        l2.insert(0, l2.pop(x))
+    if l[i] not in l2:
+        l2.insert(0, l[i])
     else:
+        index_l = 0
+        for j in range(len(l2)):
+            if l[i] == l2[j]:
+                index_l = j
+        l2.pop(index_l)
         l2.insert(0, l[i])
 
-for i in l2:
-    print(i)
+for i in range(len(l2)):
+    print(l2[i])
