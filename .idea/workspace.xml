@@ -5,296 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0be83cae-3655-4f1e-8f0b-aabdb62ddd1b" name="変更" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/0716_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0716_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0625_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0625_11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0625_12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0625_13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0625_14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0625_15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0625_16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0625_17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0625_18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0625_19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0625_20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0625_21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0625_22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0625_23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0625_24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0625_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0626_9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0627_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0627_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0627_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0627_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0627_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0627_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0628_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0628_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0628_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0628_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0628_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0628_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0629_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0629_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0629_11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0629_12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0629_13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0629_14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0629_15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0629_16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0629_17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0629_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0629_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0629_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0629_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0629_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0629_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0629_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0629_9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0630_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0630_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0630_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0630_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0630_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0630_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0630_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0701_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0701_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0701_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0701_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0701_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0701_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0701_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0701_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0702_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0702_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0702_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0702_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0702_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0702_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0703_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0703_11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0703_12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0703_13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0703_14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0703_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0703_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0703_9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0704_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0704_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0704_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0704_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0704_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0704_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0705_9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_25.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_26.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_27.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_28.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_29.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_30.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_31.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_32.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_33.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_34.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_35.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_36.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_37.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_38.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0706_9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0707_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0707_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0707_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0707_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0707_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0707_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0707_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_25.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0708_9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_26.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_27.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_28.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_29.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_30.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_31.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_32.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_33.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_34.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_35.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_36.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_37.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_38.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_39.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_40.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_41.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_42.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_43.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0709_44.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0710_9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0711_9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0712_9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0713_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0713_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0713_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0714_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0714_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0714_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0714_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0714_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0714_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0714_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0714_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0714_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0714_9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/old/0625_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/0625_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0716_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/0716_6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1360,7 +1072,8 @@
     "Python.0715_1.executor": "Run",
     "Python.0715_2.executor": "Run",
     "Python.0716_3.executor": "Debug",
-    "Python.0716_5.executor": "Debug",
+    "Python.0716_5.executor": "Run",
+    "Python.0716_6.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -1512,14 +1225,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711842314931</updated>
-    </task>
-    <task id="LOCAL-00366" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1719570087337</created>
-      <option name="number" value="00366" />
-      <option name="presentableId" value="LOCAL-00366" />
-      <option name="project" value="LOCAL" />
-      <updated>1719570087337</updated>
     </task>
     <task id="LOCAL-00367" summary="Merge remote-tracking branch 'origin/master'">
       <option name="closed" value="true" />
@@ -1905,7 +1610,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721080159534</updated>
     </task>
-    <option name="localTasksCounter" value="415" />
+    <task id="LOCAL-00415" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1721081328004</created>
+      <option name="number" value="00415" />
+      <option name="presentableId" value="LOCAL-00415" />
+      <option name="project" value="LOCAL" />
+      <updated>1721081328004</updated>
+    </task>
+    <option name="localTasksCounter" value="416" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1951,6 +1664,11 @@
           <url>file://$PROJECT_DIR$/0716_5.py</url>
           <line>14</line>
           <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0716_6.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="155" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
