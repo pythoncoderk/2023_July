@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0be83cae-3655-4f1e-8f0b-aabdb62ddd1b" name="変更" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/0723_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0723_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0723_12.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0723_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/0723_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0723_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/0723_13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1148,7 +1145,8 @@
     "Python.0722_6.executor": "Run",
     "Python.0723_10.executor": "Debug",
     "Python.0723_11.executor": "Debug",
-    "Python.0723_12.executor": "Run",
+    "Python.0723_12.executor": "Debug",
+    "Python.0723_13.executor": "Run",
     "Python.0723_7.executor": "Run",
     "Python.0723_8.executor": "Run",
     "Python.0723_9.executor": "Debug",
@@ -1303,14 +1301,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711842314931</updated>
-    </task>
-    <task id="LOCAL-00388" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1720228002329</created>
-      <option name="number" value="00388" />
-      <option name="presentableId" value="LOCAL-00388" />
-      <option name="project" value="LOCAL" />
-      <updated>1720228002329</updated>
     </task>
     <task id="LOCAL-00389" summary="Merge remote-tracking branch 'origin/master'">
       <option name="closed" value="true" />
@@ -1696,7 +1686,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721686468800</updated>
     </task>
-    <option name="localTasksCounter" value="437" />
+    <task id="LOCAL-00437" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1721687948761</created>
+      <option name="number" value="00437" />
+      <option name="presentableId" value="LOCAL-00437" />
+      <option name="project" value="LOCAL" />
+      <updated>1721687948761</updated>
+    </task>
+    <option name="localTasksCounter" value="438" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1782,6 +1780,16 @@
           <url>file://$PROJECT_DIR$/0723_11.py</url>
           <line>12</line>
           <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0723_12.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0723_13.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="199" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
