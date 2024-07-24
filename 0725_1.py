@@ -6,5 +6,6 @@ for i in range(1, N + 1):
     ans[i] += ans[i - 1]
 
 for _ in range(K):
-    q = int(input())
-    print(ans[q])
+    left, right = map(int, input().split())
+
+    print(ans[right] - ans[left - 1])
