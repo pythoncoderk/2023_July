@@ -1,8 +1,8 @@
 n = int(input())
 l = [int(input()) for i in range(n)]
-b = int(input())
+x, y = map(int, input().split())
 
-l.append(b)
+l.insert(x, y)
 
 for i in l:
     print(i)
