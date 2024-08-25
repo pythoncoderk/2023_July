@@ -5,36 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0be83cae-3655-4f1e-8f0b-aabdb62ddd1b" name="変更" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/old/0719_22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0822_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0822_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0822_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0822_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0822_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0822_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0822_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0822_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0822_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0822_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0823_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0823_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0823_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0823_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0823_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0823_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0823_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0824_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0824_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0824_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0824_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0824_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0824_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0824_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0824_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0824_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/0824_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0826_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0826_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0826_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0826_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0826_19.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0825_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/0825_14.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1691,6 +1667,11 @@
     "Python.0825_12.executor": "Debug",
     "Python.0825_13.executor": "Run",
     "Python.0825_14.executor": "Run",
+    "Python.0826_15.executor": "Debug",
+    "Python.0826_16.executor": "Run",
+    "Python.0826_17.executor": "Run",
+    "Python.0826_18.executor": "Run",
+    "Python.0826_19.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -1711,8 +1692,8 @@
       <visibility group="最近のプロジェクト" flag="true" />
     </myKeys>
   </component>
-  <component name="RunManager" selected="Python.0825_14">
-    <configuration name="0824_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0826_19">
+    <configuration name="0826_15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1725,7 +1706,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0824_10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0826_15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1734,7 +1715,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0825_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0826_16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1747,7 +1728,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0825_11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0826_16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1756,7 +1737,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0825_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0826_17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1769,7 +1750,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0825_12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0826_17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1778,7 +1759,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0825_13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0826_18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1791,7 +1772,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0825_13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0826_18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1800,7 +1781,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0825_14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0826_19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1813,7 +1794,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0825_14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0826_19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1824,11 +1805,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0825_14" />
-        <item itemvalue="Python.0825_13" />
-        <item itemvalue="Python.0825_12" />
-        <item itemvalue="Python.0825_11" />
-        <item itemvalue="Python.0824_10" />
+        <item itemvalue="Python.0826_19" />
+        <item itemvalue="Python.0826_18" />
+        <item itemvalue="Python.0826_17" />
+        <item itemvalue="Python.0826_16" />
+        <item itemvalue="Python.0826_15" />
       </list>
     </recent_temporary>
   </component>
@@ -1847,22 +1828,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711842314931</updated>
-    </task>
-    <task id="LOCAL-00492" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1723064109088</created>
-      <option name="number" value="00492" />
-      <option name="presentableId" value="LOCAL-00492" />
-      <option name="project" value="LOCAL" />
-      <updated>1723064109088</updated>
-    </task>
-    <task id="LOCAL-00493" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1723064940529</created>
-      <option name="number" value="00493" />
-      <option name="presentableId" value="LOCAL-00493" />
-      <option name="project" value="LOCAL" />
-      <updated>1723064940529</updated>
     </task>
     <task id="LOCAL-00494" summary="Merge remote-tracking branch 'origin/master'">
       <option name="closed" value="true" />
@@ -2240,7 +2205,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724570416079</updated>
     </task>
-    <option name="localTasksCounter" value="541" />
+    <task id="LOCAL-00541" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1724622558592</created>
+      <option name="number" value="00541" />
+      <option name="presentableId" value="LOCAL-00541" />
+      <option name="project" value="LOCAL" />
+      <updated>1724622558592</updated>
+    </task>
+    <task id="LOCAL-00542" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1724622577077</created>
+      <option name="number" value="00542" />
+      <option name="presentableId" value="LOCAL-00542" />
+      <option name="project" value="LOCAL" />
+      <updated>1724622577078</updated>
+    </task>
+    <option name="localTasksCounter" value="543" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -2276,6 +2257,11 @@
           <url>file://$PROJECT_DIR$/0825_14.py</url>
           <line>4</line>
           <option name="timeStamp" value="368" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0826_15.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="369" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
