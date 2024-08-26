@@ -1,0 +1,1 @@
+print("YES" if input() in input() else "NO")
