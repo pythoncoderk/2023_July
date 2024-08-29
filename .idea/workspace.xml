@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0be83cae-3655-4f1e-8f0b-aabdb62ddd1b" name="変更" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/0829_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0829_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/0829_5.py" afterDir="false" />
-    </list>
+    <list default="true" id="0be83cae-3655-4f1e-8f0b-aabdb62ddd1b" name="変更" comment="Merge remote-tracking branch 'origin/master'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -1854,14 +1850,6 @@
       <option name="presentableId" value="Default" />
       <updated>1711842314931</updated>
     </task>
-    <task id="LOCAL-00502" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1723511731691</created>
-      <option name="number" value="00502" />
-      <option name="presentableId" value="LOCAL-00502" />
-      <option name="project" value="LOCAL" />
-      <updated>1723511731691</updated>
-    </task>
     <task id="LOCAL-00503" summary="Merge remote-tracking branch 'origin/master'">
       <option name="closed" value="true" />
       <created>1723518389863</created>
@@ -2246,7 +2234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724885884686</updated>
     </task>
-    <option name="localTasksCounter" value="551" />
+    <task id="LOCAL-00551" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1724938272736</created>
+      <option name="number" value="00551" />
+      <option name="presentableId" value="LOCAL-00551" />
+      <option name="project" value="LOCAL" />
+      <updated>1724938272736</updated>
+    </task>
+    <option name="localTasksCounter" value="552" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
