@@ -7,4 +7,7 @@ l2 = [list(map(int, input().split())) for i in range(n)]
 # print(l2)
 
 for i in range(n):
-    print(l[l2[i][0]][l2[i][1]])
+    l[l2[i][0]][l2[i][1]] = "#"
+
+for i in l:
+    print("".join(i))
