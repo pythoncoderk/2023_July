@@ -6,4 +6,3 @@ for i in range(len(l)):
             l[j], l[j - 1] = l[j - 1], l[j]
 
 print(l)
-
