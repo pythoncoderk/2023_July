@@ -5,130 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0be83cae-3655-4f1e-8f0b-aabdb62ddd1b" name="変更" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/0917_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0917_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0917_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0917_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0917_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0917_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0917_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0917_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0918_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0918_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0918_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0918_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0918_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0918_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0918_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0918_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0831.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0831_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0831_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0831_11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0831_12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0831_13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0831_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0831_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0831_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0831_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0831_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0831_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0831_9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0901_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0901_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0901_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0901_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0904_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0905_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0905_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0907_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0907_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0907_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0907_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0908_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0908_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0908_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0908_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0908_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0908_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0908_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0911_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0911_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0912_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0913_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0914_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0914_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0914_11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0914_12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0914_13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0914_14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0914_15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0914_16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0914_17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0914_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0914_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0914_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0914_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0914_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0914_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0914_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0914_9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_25.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_26.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_27.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_28.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_29.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_30.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_31.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0915_9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0916_9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0917_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/0917_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_sec2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_sec3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_sec4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_sec5.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1927,6 +1812,7 @@
     "Python.0917_11.executor": "Run",
     "Python.0917_12.executor": "Debug",
     "Python.0917_13.executor": "Run",
+    "Python.0917_14.executor": "Run",
     "Python.0917_2.executor": "Run",
     "Python.0917_4.executor": "Run",
     "Python.0917_5.executor": "Run",
@@ -1934,6 +1820,14 @@
     "Python.0917_7.executor": "Run",
     "Python.0917_8.executor": "Run",
     "Python.0917_9.executor": "Debug",
+    "Python.0918_.executor": "Debug",
+    "Python.0918_1.executor": "Run",
+    "Python.0918_2.executor": "Run",
+    "Python.0918_3.executor": "Run",
+    "Python.0918_4.executor": "Run",
+    "Python.0918_5.executor": "Run",
+    "Python.0918_6.executor": "Run",
+    "Python.0918_7.executor": "Run",
     "Python.test_sec2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -1956,8 +1850,8 @@
       <visibility group="最近のプロジェクト" flag="true" />
     </myKeys>
   </component>
-  <component name="RunManager" selected="Python.0917_14">
-    <configuration name="0917_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0918_7">
+    <configuration name="0918_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1970,7 +1864,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0917_10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0918_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1979,7 +1873,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0917_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0918_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1992,7 +1886,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0917_11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0918_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -2001,7 +1895,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0917_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0918_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -2014,7 +1908,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0917_12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0918_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -2023,7 +1917,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0917_13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0918_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -2036,7 +1930,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0917_13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0918_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -2045,7 +1939,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0917_14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0918_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2023_July" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -2058,7 +1952,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0917_14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0918_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -2069,11 +1963,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0917_14" />
-        <item itemvalue="Python.0917_13" />
-        <item itemvalue="Python.0917_12" />
-        <item itemvalue="Python.0917_11" />
-        <item itemvalue="Python.0917_10" />
+        <item itemvalue="Python.0918_7" />
+        <item itemvalue="Python.0918_6" />
+        <item itemvalue="Python.0918_5" />
+        <item itemvalue="Python.0918_4" />
+        <item itemvalue="Python.0918_3" />
       </list>
     </recent_temporary>
   </component>
@@ -2092,14 +1986,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711842314931</updated>
-    </task>
-    <task id="LOCAL-00527" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1724020273119</created>
-      <option name="number" value="00527" />
-      <option name="presentableId" value="LOCAL-00527" />
-      <option name="project" value="LOCAL" />
-      <updated>1724020273119</updated>
     </task>
     <task id="LOCAL-00528" summary="Merge remote-tracking branch 'origin/master'">
       <option name="closed" value="true" />
@@ -2485,7 +2371,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726522525417</updated>
     </task>
-    <option name="localTasksCounter" value="576" />
+    <task id="LOCAL-00576" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1726524983158</created>
+      <option name="number" value="00576" />
+      <option name="presentableId" value="LOCAL-00576" />
+      <option name="project" value="LOCAL" />
+      <updated>1726524983158</updated>
+    </task>
+    <option name="localTasksCounter" value="577" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -2522,6 +2416,16 @@
           <url>file://$PROJECT_DIR$/0917_12.py</url>
           <line>3</line>
           <option name="timeStamp" value="442" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0918_.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="443" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0918_1.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="444" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
